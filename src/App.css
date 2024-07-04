@@ -344,17 +344,6 @@ body {
   z-index: 99;
 }
 
-/* shadow */
-.nintendo-switch:after {
-  content: "";
-  width: 75rem;
-  height: 3.75rem;
-  position: absolute;
-  background-color: var(--transp-black);
-  border-radius: 50%;
-  bottom: 7.5rem;
-}
-
 .helpButtonContainer {
   font-family: "Press Start 2P";
   font-size: 1.25rem;
